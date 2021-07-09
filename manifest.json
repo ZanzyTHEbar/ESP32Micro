@@ -6,7 +6,7 @@
   "background_color": "white",
   "display": "standalone",
   "Scope": "/",
-  "start_url": "https://app.paintonheating.com/",
+  "start_url": "127.0.0.1",
   "icons": [
     {
       "src": "https://app.paintonheating.com/imgs/icons/desktop/android-chrome-192x192.png",
