@@ -1,0 +1,22 @@
+{
+  "name": "Prometheon Technologies HBAT",
+  "short_name": "HOME++ PWA Mk2",
+  "description": "A webapp Interface",
+  "theme_color": "#f5f8fa",
+  "background_color": "white",
+  "display": "standalone",
+  "Scope": "/",
+  "start_url": "https://app.paintonheating.com/",
+  "icons": [
+    {
+      "src": "https://app.paintonheating.com/imgs/icons/desktop/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+  {
+    "src": "https://app.paintonheating.com/imgs/icons/desktop/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+  ]
+}
